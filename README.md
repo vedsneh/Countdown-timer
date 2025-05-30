@@ -7,6 +7,6 @@ A sleek and polished countdown timer that lets users set a custom date and time,
 - 💻 Responsive, minimal and visually appealing design
 
 **Live Demo:**
-Click here to view: https://vedsneh.github.io/Countdown-timer/
+ https://vedsneh.github.io/Countdown-timer/
 
 ### Tech Stack: HTML, CSS, JavaScript
